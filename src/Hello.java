@@ -10,6 +10,7 @@ public class Hello {
         System.out.println("Enter a name");
         String name = scan.next();
 
-        System.out.println(name);//
+        System.out.println(name);
+        // Done for today.
     }
 }
